@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/i-mRsam/i-mRsam/main/profile-summary-card-output/gruvbox/4-productive-time.svg" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=i-mRsam&theme=gruvbox"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=i-mRsam&theme=gruvbox"/>
 </p>
 
   <tr>
