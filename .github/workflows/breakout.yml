@@ -1,0 +1,27 @@
+name: Generate Breakout Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # اجرای خودکار روزانه
+  workflow_dispatch:   # امکان اجرای دستی از تب Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Breakout SVG
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: ${{ github.repository_owner }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
