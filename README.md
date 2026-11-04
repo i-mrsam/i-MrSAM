@@ -82,6 +82,13 @@
 </div>
 <br>
 </details>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-mrsam/i-MrSAM/output/conway-life-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-mrsam/i-MrSAM/output/conway-life.svg">
+    <img alt="Conway's Game of Life Contribution Graph" src="https://raw.githubusercontent.com/i-mrsam/i-MrSAM/output/conway-life-dark.svg">
+  </picture>
+</p>
   <div align="center">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff5500&height=120&section=footer"/>
   </div>
