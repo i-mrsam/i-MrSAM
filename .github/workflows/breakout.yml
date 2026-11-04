@@ -2,8 +2,8 @@ name: Generate Breakout Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # اجرای خودکار روزانه
-  workflow_dispatch:   # امکان اجرای دستی از تب Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -18,8 +18,12 @@ jobs:
         with:
           github_username: ${{ github.repository_owner }}
 
+      - name: Rename/Copy file
+        run: |
+          cp output/dark.svg output/breakout-contribution-graph.svg
+
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: output
