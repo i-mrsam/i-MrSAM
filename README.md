@@ -4,7 +4,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi+%2C++I'm+(+Esmaeil+Asadi+%3C%3D%3E+%D8%A7%D8%B3%D9%80%D9%85%D9%80%D8%A7%D8%B9%D9%80%DB%8C%D9%80%D9%84+%D8%A7%D8%B3%D9%80%D8%AF%DB%8C+)"/>
 </div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/i-mrsam/i-MrSAM/main/assets/terminal.svg" alt="Hacker Terminal" width="100%">
+</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-mrsam&theme=gruvbox" />
 </p>
