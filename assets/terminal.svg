@@ -1,0 +1,68 @@
+<svg fill="none" viewBox="0 0 800 320" width="100%" height="320" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .window {
+          background-color: #1d2021;
+          border: 1px solid #3c3836;
+          border-radius: 8px;
+          padding: 15px;
+          font-family: 'Fira Code', 'Courier New', monospace;
+          color: #ebdbb2;
+          box-shadow: 0 10px 30px rgba(0,0,0,0.6);
+        }
+        .header {
+          display: flex;
+          align-items: center;
+          margin-bottom: 12px;
+          border-bottom: 1px solid #32302f;
+          padding-bottom: 8px;
+        }
+        .dots { display: flex; gap: 6px; }
+        .dot { width: 11px; height: 11px; border-radius: 50%; }
+        .red { background: #fb4934; }
+        .yellow { background: #fabd2f; }
+        .green { background: #b8bb26; }
+        .title { margin-left: 15px; font-size: 12px; color: #a89984; }
+        .cmd { color: #fe8019; font-weight: bold; }
+        .prompt { color: #b8bb26; }
+        .text { font-size: 13px; line-height: 1.6; }
+        .accent { color: #fabd2f; }
+        .cyan { color: #8ec07c; }
+        .dim { color: #928374; }
+        .cursor {
+          display: inline-block;
+          width: 8px;
+          height: 15px;
+          background-color: #fe8019;
+          vertical-align: middle;
+          animation: blink 1s infinite;
+        }
+        @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+      </style>
+
+      <div class="window">
+        <div class="header">
+          <div class="dots">
+            <div class="dot red"></div>
+            <div class="dot yellow"></div>
+            <div class="dot green"></div>
+          </div>
+          <div class="title">Mr. SAM: ~ </div>
+        </div>
+        <div class="text">
+          <div><span class="prompt">Mr. SAM:~$</span> <span class="cmd">checksec --file=./identity</span></div>
+          <div class="dim">    RELRO: Full RELRO | Canary: Yes | NX: Enabled | PIE: Enabled</div>
+          <br/>
+          <div><span class="prompt">Mr. SAM:~$</span> <span class="cmd">r2 -q -c "aaa; s sym.main; pdf" ./identity</span></div>
+          <div><span class="cyan">0x00401120</span>  <span class="accent">lea</span> rdi, [str.Specialties]  <span class="dim">; "Rust, Linux, Reverse Eng, Android"</span></div>
+          <div><span class="cyan">0x00401127</span>  <span class="accent">call</span> sym.audit_system       <span class="dim">; status = 0x0 (secure)</span></div>
+          <div><span class="cyan">0x0040112c</span>  <span class="accent">mov</span> eax, 0x1337</div>
+          <div><span class="cyan">0x00401131</span>  <span class="accent">ret</span></div>
+          <br/>
+          <div><span class="prompt">Mr. SAM:~$</span> <span class="cmd">sysinfo --target=i-MrSAM</span> <span class="cursor"></span></div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
