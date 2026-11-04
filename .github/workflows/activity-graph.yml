@@ -1,0 +1,31 @@
+name: Generate Activity Graph SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:  
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=gruvbox&area=true&hide_border=true
+          output_path: assets/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push to main
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-graph.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update activity graph [skip ci]" && git push)
