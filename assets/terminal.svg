@@ -48,7 +48,7 @@
             <div class="dot yellow"></div>
             <div class="dot green"></div>
           </div>
-          <div class="title">mrsam@null-err0r: ~ (x86_64/linux)</div>
+          <div class="title">Mr. Sam: ~ </div>
         </div>
         <div class="text">
           <div><span class="prompt">mrsam@box:~$</span> <span class="cmd">checksec --file=./identity</span></div>
