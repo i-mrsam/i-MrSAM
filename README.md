@@ -98,7 +98,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-mRsam&theme=gruvbox" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/i-mrsam/i-MrSAM/main/assets/activity-graph.svg" alt="Activity Graph" width="100%" />
 </div>
 <br/>
 </details>
