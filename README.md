@@ -102,7 +102,11 @@
 </div>
 <br/>
 </details>
-
+<!-- Security Clearance & PGP -->
+<div align="center">
+  <pre><code>[+] PGP Fingerprint : <b>732B CDDA D8A9 01EF 42CE  0BE1 05D4 486F ECF1 EAA1</b>
+[+] Key Algorithm   : <b>Ed25519 (ECC)</b> | Status: <b>VERIFIED</b></code></pre>
+</div>
 <!-- Security & Contact Clearance -->
 <br/>
 <div align="center">
