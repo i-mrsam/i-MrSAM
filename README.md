@@ -122,7 +122,7 @@
 
 <!-- Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff5500&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff5500&height=210&section=header&text=In%20code%20we%20trust,%20in%20security%20we%20audit.&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mr.%20SAM&descAlignY=58&descSize=17"/>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active%20&%20Updated-FF5500?style=for-the-badge" alt="Status Badge" />
