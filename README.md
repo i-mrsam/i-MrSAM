@@ -91,13 +91,14 @@
 <!-- Footer -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff5500&height=210&section=header&text=In%20code%20we%20trust,%20in%20security%20we%20audit.&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mr.%20SAM&descAlignY=58&descSize=17"/>
-</div>
 
-<div align="center">
+
+
   <img src="https://ghvc.kabelkultur.se/?username=null-err0r&abbreviated=true&color=ff5500&label=%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%20%F0%9F%91%80%20%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AEVisitor%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%F0%9F%91%80%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE" alt="Visitor Counter" />
 </div>
 
-<div align="center">
+
+
   <img src="https://img.shields.io/badge/Status-Active%20&%20Updated-FF5500?style=for-the-badge" alt="Status Badge" />
   <img src="https://mrdexter.ir/svg/TheCoffee.svg" alt="Coffee SVG" />
 </div>
