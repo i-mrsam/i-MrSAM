@@ -37,39 +37,6 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=i-mRsam&theme=gruvbox"/>
 </p>
 
-<!-- Deep Insights Accordion -->
-<details align="center">
-<summary> <b>📊 Deep Telemetry & Extended Metrics</b> </summary>
-<br/>
-<div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=19436819&period=all_times" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19436819&period=all_times&image_size=auto&color_scheme=dark" width="700">
-      <img alt="Contribution Time Distribution" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19436819&period=all_times&image_size=auto&color_scheme=dark" width="700">
-    </picture>
-  </a>
-</div>
-<div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=19436819" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=19436819&image_size=auto&color_scheme=dark" width="700">
-      <img alt="Dashboard Stats" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=19436819&image_size=auto&color_scheme=dark" width="700">
-    </picture>
-  </a>
-</div>
-<div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?activity=stars&role=stars&owner_id=19436819&period=past_12_months" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=stars&role=stars&owner_id=19436819&period=past_12_months&image_size=4x7&color_scheme=dark" width="700">
-      <img alt="Geographical Distribution" src="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=stars&role=stars&owner_id=19436819&period=past_12_months&image_size=4x7&color_scheme=dark" width="700">
-    </picture>
-  </a>
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/i-mrsam/i-MrSAM/main/assets/activity-graph.svg" alt="Activity Graph" width="100%" />
-</div>
-<br/>
-</details>
 <!-- Security Clearance & PGP -->
 <div align="center">
   <pre><code>[+] PGP Fingerprint : <b>732B CDDA D8A9 01EF 42CE  0BE1 05D4 486F ECF1 EAA1</b>
