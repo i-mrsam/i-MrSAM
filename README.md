@@ -19,39 +19,7 @@
   <img src="https://img.shields.io/badge/JavaScript-d65d0e?style=for-the-badge&logo=javascript&logoColor=282828" width="125"/>
 </p>
 
-<div align="center">
-  <img src="https://ghvc.kabelkultur.se/?username=null-err0r&abbreviated=true&color=ff5500&label=%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%20%F0%9F%91%80%20%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AEVisitor%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%F0%9F%91%80%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE" alt="Visitor Counter" />
-</div>
-
 <br/>
-
-<!-- Featured Tooling & Research -->
-<h3 align="center">⚡ Core Arsenal & Research</h3>
-
-<div align="center">
-
-| Target / Repository | Focus & Domain | Stack | Status |
-| :--- | :--- | :--- | :---: |
-| [**Petro**](https://github.com/i-mrsam/Petro) | Network Reconnaissance & Security Scanning | Python / Network | `Active` |
-| [**Filtering-Analysis-Tool**](https://github.com/i-mrsam/Filtering-Analysis-Tool) | DPI & Network Filtering Analysis | Python / Sockets | `Maintained` |
-| [**TimeZone**](https://github.com/i-mrsam/TimeZone) | Android Hooking & Per-App Locale Override | LSPosed / Java | `Stable` |
-| [**Process-Monitor**](https://github.com/i-mrsam/Process-Monitor) | Linux Process Inspection & Kernel Monitoring | Bash / Linux | `Core` |
-| [**ChatAi**](https://github.com/i-mrsam/ChatAi) | Android AI Client backed by Cloudflare Workers | Kotlin / Workers | `Active` |
-
-</div>
-
-<br/>
-
-<!-- Contribution Dynamics: Conway's Game of Life -->
-<h3 align="center">👾 Conway's Game of Life (Contribution Matrix)</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-mrsam/i-MrSAM/output/conway-life-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-mrsam/i-MrSAM/output/conway-life.svg">
-    <img alt="Conway's Game of Life Contribution Graph" src="https://raw.githubusercontent.com/i-mrsam/i-MrSAM/output/conway-life-dark.svg">
-  </picture>
-</p>
 
 <!-- Profile Summary Cards -->
 <p align="center">
@@ -124,6 +92,11 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff5500&height=210&section=header&text=In%20code%20we%20trust,%20in%20security%20we%20audit.&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mr.%20SAM&descAlignY=58&descSize=17"/>
 </div>
+
+<div align="center">
+  <img src="https://ghvc.kabelkultur.se/?username=null-err0r&abbreviated=true&color=ff5500&label=%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%20%F0%9F%91%80%20%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AEVisitor%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%F0%9F%91%80%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE%20%E2%81%AE%E2%81%AE" alt="Visitor Counter" />
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active%20&%20Updated-FF5500?style=for-the-badge" alt="Status Badge" />
   <img src="https://mrdexter.ir/svg/TheCoffee.svg" alt="Coffee SVG" />
