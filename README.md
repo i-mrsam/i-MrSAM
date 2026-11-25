@@ -21,22 +21,6 @@
 
 <br/>
 
-<!-- Profile Summary Cards -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-mrsam&theme=gruvbox" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/i-mRsam/i-mRsam/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/i-mRsam/i-mRsam/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/i-mRsam/i-mRsam/main/profile-summary-card-output/gruvbox/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/i-mRsam/i-mRsam/main/profile-summary-card-output/gruvbox/4-productive-time.svg" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=i-mRsam&theme=gruvbox"/>
-</p>
-
 <!-- Security Clearance & PGP -->
 <div align="center">
   <pre><code>[+] PGP Fingerprint : <b>732B CDDA D8A9 01EF 42CE  0BE1 05D4 486F ECF1 EAA1</b>
